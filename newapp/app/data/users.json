@@ -1,0 +1,10 @@
+{
+    "users" : [{
+"id":1,
+"usersname":"gunda",
+"email":"gunda@gmail.com",
+"password":"gunda123",
+"phone":"542332512",
+"dob":"01/01/1999"
+    }]
+}

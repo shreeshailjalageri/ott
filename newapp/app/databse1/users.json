@@ -1,0 +1,29 @@
+
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "gunda",
+      "email": "gunda@gmail.com",
+      "password": "gunda123",
+      "phone": "9876543219",
+      "dob": "01/01/2001",
+      "active_bookings":[ {
+                            "ticket_no" :123,
+                            "busname":"airavatha",
+                            "busnumber":"KA014567",
+                            "distance":"1000kms",
+                            "seatno":["E5"],
+                            "seats":"1",
+                            "from":"bengaluru",
+                            "to":"Mumbai",
+                            "boarding_time":"10:00 am",
+                            "departure_time":"10:00 pm",
+                            "journey_time":"10 hrs",
+                            "price":"1000",
+                            "date":"20/7/2023"
+                          }],
+      "previous_bookings":[]
+    }
+  ]
+}
