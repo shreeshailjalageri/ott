@@ -81,6 +81,7 @@ const Addmovie = () => {
                 <input type="submit" value="Add movie"/>
             </form>
         </div>
+        //check
      );
 }
  
